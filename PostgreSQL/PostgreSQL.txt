@@ -1,8 +1,10 @@
 FOR UBUNTU USERS:
 
-sudo -i -u postgres
+sudo -i -u postgres (to start postgreSQL)
 
-psql
+psql (to enter sql environment)
+
+\q (to exit sql environment)
 
 \list (list of databases)
 
