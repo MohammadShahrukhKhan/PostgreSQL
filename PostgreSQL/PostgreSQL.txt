@@ -4,6 +4,9 @@ sudo -i -u postgres (to start postgreSQL)
 
 psql (to enter sql environment)
 
+ALTERNATE METHOD:
+sudo -u postgres psql (to start and enter sql environment)
+
 \q (to exit sql environment)
 
 \list (list of databases)
